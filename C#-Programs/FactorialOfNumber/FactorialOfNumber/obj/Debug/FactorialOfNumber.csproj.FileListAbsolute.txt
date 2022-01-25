@@ -1,0 +1,6 @@
+D:\C#-Programs\FactorialOfNumber\FactorialOfNumber\bin\Debug\FactorialOfNumber.exe.config
+D:\C#-Programs\FactorialOfNumber\FactorialOfNumber\bin\Debug\FactorialOfNumber.exe
+D:\C#-Programs\FactorialOfNumber\FactorialOfNumber\bin\Debug\FactorialOfNumber.pdb
+D:\C#-Programs\FactorialOfNumber\FactorialOfNumber\obj\Debug\FactorialOfNumber.csproj.CoreCompileInputs.cache
+D:\C#-Programs\FactorialOfNumber\FactorialOfNumber\obj\Debug\FactorialOfNumber.exe
+D:\C#-Programs\FactorialOfNumber\FactorialOfNumber\obj\Debug\FactorialOfNumber.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find-LargestIn-TwoNumbers", "Find-LargestIn-TwoNumbers\Find-LargestIn-TwoNumbers.csproj", "{540E8FCA-31AB-4F73-A0F5-A5FF1984124A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{540E8FCA-31AB-4F73-A0F5-A5FF1984124A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540E8FCA-31AB-4F73-A0F5-A5FF1984124A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540E8FCA-31AB-4F73-A0F5-A5FF1984124A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540E8FCA-31AB-4F73-A0F5-A5FF1984124A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09A06B26-A85C-4382-B6AD-2DE254281300}
+	EndGlobalSection
+EndGlobal

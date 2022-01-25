@@ -1,0 +1,7 @@
+D:\C#-Programs\StaticExample\StaticExample\obj\Debug\StaticExample.csprojAssemblyReference.cache
+D:\C#-Programs\StaticExample\StaticExample\obj\Debug\StaticExample.csproj.CoreCompileInputs.cache
+D:\C#-Programs\StaticExample\StaticExample\bin\Debug\StaticExample.exe.config
+D:\C#-Programs\StaticExample\StaticExample\bin\Debug\StaticExample.exe
+D:\C#-Programs\StaticExample\StaticExample\bin\Debug\StaticExample.pdb
+D:\C#-Programs\StaticExample\StaticExample\obj\Debug\StaticExample.exe
+D:\C#-Programs\StaticExample\StaticExample\obj\Debug\StaticExample.pdb

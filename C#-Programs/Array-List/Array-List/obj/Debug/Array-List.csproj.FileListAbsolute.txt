@@ -1,0 +1,7 @@
+D:\C#-Programs\Array-List\Array-List\bin\Debug\Array-List.exe.config
+D:\C#-Programs\Array-List\Array-List\bin\Debug\Array-List.exe
+D:\C#-Programs\Array-List\Array-List\bin\Debug\Array-List.pdb
+D:\C#-Programs\Array-List\Array-List\obj\Debug\Array-List.csprojAssemblyReference.cache
+D:\C#-Programs\Array-List\Array-List\obj\Debug\Array-List.csproj.CoreCompileInputs.cache
+D:\C#-Programs\Array-List\Array-List\obj\Debug\Array-List.exe
+D:\C#-Programs\Array-List\Array-List\obj\Debug\Array-List.pdb

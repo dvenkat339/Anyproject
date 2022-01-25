@@ -1,0 +1,6 @@
+D:\C#-Programs\Print-Even-Numbers\Print-Even-Numbers\bin\Debug\Print-Even-Numbers.exe.config
+D:\C#-Programs\Print-Even-Numbers\Print-Even-Numbers\bin\Debug\Print-Even-Numbers.exe
+D:\C#-Programs\Print-Even-Numbers\Print-Even-Numbers\bin\Debug\Print-Even-Numbers.pdb
+D:\C#-Programs\Print-Even-Numbers\Print-Even-Numbers\obj\Debug\Print-Even-Numbers.csproj.CoreCompileInputs.cache
+D:\C#-Programs\Print-Even-Numbers\Print-Even-Numbers\obj\Debug\Print-Even-Numbers.exe
+D:\C#-Programs\Print-Even-Numbers\Print-Even-Numbers\obj\Debug\Print-Even-Numbers.pdb
